@@ -1,0 +1,5 @@
+- 👋 Olá, meu nome é Lucas Henrique Simon
+- 👀 Sou Desenvolvedor independente front-end, buscando por opotunidades e conhecimentos novos
+- 🌱 Estudo Análise e Desenvolvimento de Sistemas juntamente de diversos cursos livres e youtube
+- 💞️ Como disse anteriormente procuro oportunidades novas para crescimento.
+- 📫 Entre em contato comigo pelo Whats: (54)996515921
