@@ -30,3 +30,12 @@
 <p>
   🙋‍♂️ LinkedIn: https://www.linkedin.com/in/lucas-henrique-simon-20b585186/
 </p>
+
+<p align="center"> 
+
+ <h2> Total de visitas no meu perfil :detective: </h2>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/lucassimon98/count.svg"/>
+ </p>
+
+</p>
