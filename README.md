@@ -2,7 +2,7 @@
 
 <h2> Sobre mim 👀 </h2>
 <p>
-  Tenho 23 anos e estou em busca de ingressar em áreas do desenvolvimento, já trabalhei com Front-end mas encaro qualquer desafio de mudança de posição para Back-end, DevOps e Testes.
+  Tenho 25 anos e estou em busca de ingressar em áreas do desenvolvimento, já trabalhei com Front-end mas encaro qualquer desafio de mudança de posição para Back-end, DevOps e Testes.
 </p>
 <p>
   Sou uma pessoa dedicada que quando esta atuando em algum lugar me dedico sempre 200% ao trabalho, se eu não sei aprendo e assim vou tentando melhorar sempre para poder crescer intelectualmente e profissionalmente.
@@ -10,7 +10,7 @@
 
 <h2> Estudos 🌱</h2>
 <p>
-  Estudo Análise e Desenvolvimento de sistemas mas não me contento apenas com isso e sempre busco cursos na Udemy, Youtube e também ja fiz cursos na Alura e eventos que acontecem participo ao máximo sempre. Boa parte de tudo que aprendi veio de pessoas maravilhosas que disponibilizam seu vasto conhecimento de forma gratuita, coisa que na TI é incrível, pois nunca alguem se nega a te ensinar algo.  
+  Sou formado em Análise e Desenvolvimento de sistemas mas não me contento apenas com isso e sempre busco cursos na Udemy, Youtube e também ja fiz cursos na Alura e eventos que acontecem participo ao máximo sempre. Boa parte de tudo que aprendi veio de pessoas maravilhosas que disponibilizam seu vasto conhecimento de forma gratuita, coisa que na TI é incrível, pois nunca alguem se nega a te ensinar algo.  
 </p>
 
 
@@ -22,7 +22,7 @@
 
 <h2> Entre em contato comigo 📞</h2>
 <p>
-  📲 WhatsApp: (54) 9651-5921
+  📲 WhatsApp: (54) 99651-5921
 </p>
 <p>
   📧 Email: lucassimon98@gmail.com
