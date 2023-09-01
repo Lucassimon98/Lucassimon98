@@ -28,7 +28,7 @@
   📧 Email: lucassimon98@gmail.com
 </p>
 <p>
-  🙋‍♂️ LinkedIn: https://www.linkedin.com/in/lucas-henrique-simon-20b585186/
+  🙋‍♂️ LinkedIn: www.linkedin.com/in/lucassimon98
 </p>
 
 <p align="center"> 
