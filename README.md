@@ -2,7 +2,7 @@
 
 <h2> Sobre mim 👀 </h2>
 <p>
-  Tenho 25 anos e estou em busca de ingressar em áreas do desenvolvimento, já trabalhei com Front-end mas encaro qualquer desafio de mudança de posição para Back-end, DevOps e Testes.
+  Tenho 25 anos busco ingressar no Desenvolvimento Back-End, como pode ser visto em meu portifólio tenho conhecimento em diversas linguagens Back-End e também com Banco de Dados e Docker. Já atuei como Front-End e tenho 1 ano de experiência.
 </p>
 <p>
   Sou uma pessoa dedicada que quando esta atuando em algum lugar me dedico sempre 200% ao trabalho, se eu não sei aprendo e assim vou tentando melhorar sempre para poder crescer intelectualmente e profissionalmente.
